@@ -1,0 +1,6 @@
+C:\Users\LT-338\Downloads\CustomerManagement\CustomerManagement\CustomerManagement.Model\bin\Debug\CustomerManagement.Model.dll
+C:\Users\LT-338\Downloads\CustomerManagement\CustomerManagement\CustomerManagement.Model\bin\Debug\CustomerManagement.Model.pdb
+C:\Users\LT-338\Downloads\CustomerManagement\CustomerManagement\CustomerManagement.Model\obj\Debug\StudentManagement.Model.csproj.AssemblyReference.cache
+C:\Users\LT-338\Downloads\CustomerManagement\CustomerManagement\CustomerManagement.Model\obj\Debug\StudentManagement.Model.csproj.CoreCompileInputs.cache
+C:\Users\LT-338\Downloads\CustomerManagement\CustomerManagement\CustomerManagement.Model\obj\Debug\CustomerManagement.Model.dll
+C:\Users\LT-338\Downloads\CustomerManagement\CustomerManagement\CustomerManagement.Model\obj\Debug\CustomerManagement.Model.pdb

@@ -1,0 +1,9 @@
+C:\Users\lucks\source\repos\CustomerManagement\CustomerManagement.BAL\bin\Debug\CustomerManagement.BAL.dll
+C:\Users\lucks\source\repos\CustomerManagement\CustomerManagement.BAL\bin\Debug\CustomerManagement.BAL.pdb
+C:\Users\lucks\source\repos\CustomerManagement\CustomerManagement.BAL\bin\Debug\CustomerManagement.Model.dll
+C:\Users\lucks\source\repos\CustomerManagement\CustomerManagement.BAL\bin\Debug\CustomerManagement.Model.pdb
+C:\Users\lucks\source\repos\CustomerManagement\CustomerManagement.BAL\obj\Debug\CustomerManagement.BAL.csproj.AssemblyReference.cache
+C:\Users\lucks\source\repos\CustomerManagement\CustomerManagement.BAL\obj\Debug\CustomerManagement.BAL.csproj.CoreCompileInputs.cache
+C:\Users\lucks\source\repos\CustomerManagement\CustomerManagement.BAL\obj\Debug\CustomerManagement.BAL.csproj.CopyComplete
+C:\Users\lucks\source\repos\CustomerManagement\CustomerManagement.BAL\obj\Debug\CustomerManagement.BAL.dll
+C:\Users\lucks\source\repos\CustomerManagement\CustomerManagement.BAL\obj\Debug\CustomerManagement.BAL.pdb

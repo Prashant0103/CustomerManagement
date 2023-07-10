@@ -1,0 +1,5 @@
+C:\Users\lucks\source\repos\CustomerManagement\CustomerManagement.Model\bin\Debug\CustomerManagement.Model.dll
+C:\Users\lucks\source\repos\CustomerManagement\CustomerManagement.Model\bin\Debug\CustomerManagement.Model.pdb
+C:\Users\lucks\source\repos\CustomerManagement\CustomerManagement.Model\obj\Debug\CustomerManagement.Model.csproj.CoreCompileInputs.cache
+C:\Users\lucks\source\repos\CustomerManagement\CustomerManagement.Model\obj\Debug\CustomerManagement.Model.dll
+C:\Users\lucks\source\repos\CustomerManagement\CustomerManagement.Model\obj\Debug\CustomerManagement.Model.pdb

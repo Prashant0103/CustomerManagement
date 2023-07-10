@@ -1,0 +1,9 @@
+C:\Users\LT-338\Downloads\CustomerManagement\CustomerManagement\CustomerManagement.BAL\bin\Debug\CustomerManagement.BAL.dll
+C:\Users\LT-338\Downloads\CustomerManagement\CustomerManagement\CustomerManagement.BAL\bin\Debug\CustomerManagement.BAL.pdb
+C:\Users\LT-338\Downloads\CustomerManagement\CustomerManagement\CustomerManagement.BAL\bin\Debug\CustomerManagement.Model.dll
+C:\Users\LT-338\Downloads\CustomerManagement\CustomerManagement\CustomerManagement.BAL\bin\Debug\CustomerManagement.Model.pdb
+C:\Users\LT-338\Downloads\CustomerManagement\CustomerManagement\CustomerManagement.BAL\obj\Debug\StudentManagement.BAL.csproj.AssemblyReference.cache
+C:\Users\LT-338\Downloads\CustomerManagement\CustomerManagement\CustomerManagement.BAL\obj\Debug\StudentManagement.BAL.csproj.CoreCompileInputs.cache
+C:\Users\LT-338\Downloads\CustomerManagement\CustomerManagement\CustomerManagement.BAL\obj\Debug\StudentManagement.BAL.csproj.CopyComplete
+C:\Users\LT-338\Downloads\CustomerManagement\CustomerManagement\CustomerManagement.BAL\obj\Debug\CustomerManagement.BAL.dll
+C:\Users\LT-338\Downloads\CustomerManagement\CustomerManagement\CustomerManagement.BAL\obj\Debug\CustomerManagement.BAL.pdb
